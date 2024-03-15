@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    color: blueviolet;
+}
+
+#i1{
+    /* width: 300px; */
+    /* width: 65px; */
+    height: 350px;
+    margin: 0px auto;
+    display: block;
+}
+
+.galerie{
+    height: 200px;
+    width: 200px;
+    margin: 0 5px;
+    object-fit: cover;
+}
